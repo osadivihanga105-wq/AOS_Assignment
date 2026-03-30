@@ -1,0 +1,5 @@
+[2026-03-30 22:27:47] FAILED: User '102' incorrect password.
+[2026-03-30 22:27:52] FAILED: User '102' incorrect password.
+[2026-03-30 22:27:57] FAILED: User '102' incorrect password.
+[2026-03-30 22:27:57] LOCKOUT: User '102' account locked.
+[2026-03-30 22:29:18] SUCCESS: User '102' logged in.
