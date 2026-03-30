@@ -1,0 +1,10 @@
+[2026-03-30 22:21:44] SUBMISSION: Student 101 submitted 'Job_01' (Prio: 2, Time: 12s)
+[2026-03-30 22:21:55] SUBMISSION: Student 102 submitted 'Jov_02' (Prio: 9, Time: 4s)
+[2026-03-30 22:22:05] SUBMISSION: Student 103 submitted 'Job_03' (Prio: 5, Time: 6s)
+[2026-03-30 22:22:14] EXECUTION: Completed 'Jov_02' (Student: 102) via Priority
+[2026-03-30 22:22:21] EXECUTION: Completed 'Job_03' (Student: 103) via Priority
+[2026-03-30 22:22:33] EXECUTION: Completed 'Job_01' (Student: 101) via Priority
+[2026-03-30 22:22:47] SUBMISSION: Student 104 submitted 'Job_04' (Prio: 9, Time: 5s)
+[2026-03-30 22:23:07] SUBMISSION: Student 105 submitted 'Job_05' (Prio: 2, Time: 7s)
+[2026-03-30 22:23:17] EXECUTION: Completed 'Job_04' (Student: 104) via RR
+[2026-03-30 22:23:26] EXECUTION: Completed 'Job_05' (Student: 105) via RR
